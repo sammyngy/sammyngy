@@ -2,9 +2,6 @@
 
 I'm 23 y/o fullstack developper based in Paris
 
-## My job
-
-I'm currently working for a healthcare company based in Paris. I also develop cool tools and things for my personal use in the sneakers/nft sector.
 
 ## Contact
 
