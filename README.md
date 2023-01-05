@@ -2,6 +2,8 @@
 
 I'm 23 y/o fullstack developper based in Paris
 
+<img width="75%" src="https://spotify-readme-badge.vercel.app/api/now-playing" />
+
 ## Contact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammyngy&show_icons=true&theme=radical"/>
