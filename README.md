@@ -3,7 +3,7 @@
 I'm 23 y/o fullstack developper based in Paris
 
 
-## Contact
+## activities
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammyngy&show_icons=true&theme=radical"/>
 </p>
