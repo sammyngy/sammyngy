@@ -1,6 +1,6 @@
 ### Hi, I'm Sammy
 
-I'm 23 y/o fullstack developper based in Paris
+I'm 24 y/o fullstack developper based in Paris
 
 ## Activities
 
