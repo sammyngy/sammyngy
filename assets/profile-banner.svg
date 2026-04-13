@@ -1,0 +1,75 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sammy Nguyen GitHub profile banner</title>
+  <desc id="desc">Modern gradient banner introducing Sam as a web developer based in Paris working at Crédit Agricole.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1120 120) rotate(90) scale(260 320)">
+      <stop stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 560) rotate(90) scale(260 420)">
+      <stop stop-color="#22C55E" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="white" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="32" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="32" fill="url(#grid)"/>
+  <circle cx="1110" cy="130" r="220" fill="url(#glow1)"/>
+  <circle cx="260" cy="560" r="220" fill="url(#glow2)"/>
+
+  <g filter="url(#blur)" opacity="0.5">
+    <circle cx="980" cy="160" r="70" fill="#38BDF8"/>
+    <circle cx="1030" cy="380" r="88" fill="#2563EB"/>
+    <circle cx="890" cy="450" r="64" fill="#22C55E"/>
+  </g>
+
+  <rect x="72" y="84" width="420" height="52" rx="26" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.18"/>
+  <text x="104" y="117" fill="#BFDBFE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="600">sammyngy • web developer • paris</text>
+
+  <text x="72" y="240" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="88" font-weight="800">Sam</text>
+  <text x="72" y="320" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="500">Building modern web experiences with clean UI,</text>
+  <text x="72" y="366" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="500">strong frontend foundations and practical engineering.</text>
+
+  <g>
+    <rect x="72" y="432" width="196" height="54" rx="27" fill="#0EA5E9" fill-opacity="0.16" stroke="#7DD3FC" stroke-opacity="0.5"/>
+    <text x="105" y="466" fill="#E0F2FE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">Front-end</text>
+
+    <rect x="286" y="432" width="124" height="54" rx="27" fill="#22C55E" fill-opacity="0.14" stroke="#86EFAC" stroke-opacity="0.45"/>
+    <text x="323" y="466" fill="#DCFCE7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">BFF</text>
+
+    <rect x="428" y="432" width="164" height="54" rx="27" fill="#A855F7" fill-opacity="0.14" stroke="#D8B4FE" stroke-opacity="0.45"/>
+    <text x="460" y="466" fill="#F3E8FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700">Scraping</text>
+  </g>
+
+  <g>
+    <rect x="72" y="516" width="346" height="56" rx="18" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.14"/>
+    <text x="100" y="552" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700">Currently at Crédit Agricole</text>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="842" y="122" width="320" height="372" rx="28" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+    <text x="882" y="178" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700">Focus</text>
+
+    <text x="882" y="236" fill="#BFDBFE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">• React / Next.js interfaces</text>
+    <text x="882" y="280" fill="#BFDBFE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">• TypeScript & Node.js apps</text>
+    <text x="882" y="324" fill="#BFDBFE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">• APIs, automation & tooling</text>
+    <text x="882" y="368" fill="#BFDBFE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22">• Product-minded web delivery</text>
+
+    <rect x="882" y="416" width="148" height="40" rx="20" fill="#0F172A" fill-opacity="0.48"/>
+    <text x="916" y="442" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">Paris, FR</text>
+
+    <rect x="1040" y="416" width="82" height="40" rx="20" fill="#0F172A" fill-opacity="0.48"/>
+    <text x="1063" y="442" fill="#E2E8F0" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="700">Web</text>
+  </g>
+</svg>
