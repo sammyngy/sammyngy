@@ -17,8 +17,8 @@ I build modern web applications with a focus on clean interfaces, solid engineer
 
 | Project | Description |
 |---|---|
-| **[TCGTracker](https://github.com/sammyngy/tcgtracker)** | Full-stack trading card portfolio tracker (Nuxt 3, MongoDB) with real-time Cardmarket pricing, AI card recognition via Claude Vision, and a dual-deployment architecture (self-hosted/Vercel) |
-| **[Portfolio Tracker](https://github.com/sammyngy/portfolio-tracker)** | Investment tracking app (React, FastAPI) with risk metrics, alerts, French tax estimation, and an AI research digest via NotebookLM |
+| **[TCGTracker]((https://demo.tcg.skezlab.fr))** | Full-stack trading card portfolio tracker (Nuxt 3, MongoDB) with real-time Cardmarket pricing, AI card recognition via Claude Vision, and a dual-deployment architecture (self-hosted/Vercel) |
+| **[Portfolio Tracker](https://demo.portfoliotracker.skezlab.fr)** | Investment tracking app (React, FastAPI) with risk metrics, alerts, French tax estimation, and an AI research digest via NotebookLM |
 | **[myspotifytracks](https://github.com/sammyngy/myspotifytracks)** | TypeScript project with a live Vercel deployment around Spotify data |
 | **[steam-activity](https://github.com/sammyngy/steam-activity)** | Endpoints built around the Steam API |
 
@@ -31,5 +31,5 @@ I build modern web applications with a focus on clean interfaces, solid engineer
 
 ## 📫 Links
 
-- Portfolio: [sammyngyfolio.vercel.app](https://sammyngyfolio.vercel.app/)
+- Portfolio: [skezlab.fr](https://skezlab.fr)
 - LinkedIn: [sammyngy](https://linkedin.com/in/sammyngy)
