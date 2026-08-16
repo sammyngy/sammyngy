@@ -1,24 +1,35 @@
-# Sam
+# Sam Nguyen
 
-> Web Developer based in Paris, currently working at Crédit Agricole.
+> Front-End / Full-Stack Developer based in Paris, currently @ Crédit Agricole (CACD2)
 
-I build modern web applications with a focus on clean interfaces, solid front-end foundations and maintainable engineering.
+I build modern web applications with a focus on clean interfaces, solid engineering, and AI-assisted development workflows.
 
-## What I work on
-- Front-end applications with React and Next.js
-- Full-stack apps (FastAPI/Python, Nuxt/Vue) with real databases and public demo deployments
-- BFF, APIs and integration layers
-- Automation and scraping tools
-- Product-focused web development
+![Profile Views](https://komarev.com/ghpvc/?username=sammyngy)
 
-## Selected projects
-- [myspotifytracks](https://github.com/sammyngy/myspotifytracks) — TypeScript project with a live Vercel deployment around Spotify-related data.
-- **Portfolio Tracker** — PEA/CTO-aware stock portfolio tracker (FastAPI + React), with risk metrics and live quotes. [Live demo](https://demo.portfoliotracker.skezlab.fr)
-- **TCG Tracker** — Trading card collection tracker (Nuxt + MongoDB) with Cardmarket price tracking, portfolio and wishlist management. [Live demo](https://tcgtracker-ashy.vercel.app)
+## 🚀 What I work on
 
-## Stack
-TypeScript · JavaScript · Python · React · Next.js · Nuxt/Vue · Node.js · FastAPI · HTML/CSS · Tailwind · PostgreSQL · MongoDB · Docker
+- Front-end applications with Vue 3, React & Next.js
+- BFF, APIs and integration layers (Node.js/Express)
+- Internal tools & infra (Docker, ArgoCD, GitLab CI/CD)
+- AI-assisted workflows (Claude, MCP, prompt engineering)
 
-## Links
-- Portfolio: https://sammyngyfolio.vercel.app/
-- GitHub: https://github.com/sammyngy
+## 🧩 Featured Projects
+
+| Project | Description |
+|---|---|
+| **[TCGTracker](https://github.com/sammyngy/tcgtracker)** | Full-stack trading card portfolio tracker (Nuxt 3, MongoDB) with real-time Cardmarket pricing, AI card recognition via Claude Vision, and a dual-deployment architecture (self-hosted/Vercel) |
+| **[Portfolio Tracker](https://github.com/sammyngy/portfolio-tracker)** | Investment tracking app (React, FastAPI) with risk metrics, alerts, French tax estimation, and an AI research digest via NotebookLM |
+| **[myspotifytracks](https://github.com/sammyngy/myspotifytracks)** | TypeScript project with a live Vercel deployment around Spotify data |
+| **[steam-activity](https://github.com/sammyngy/steam-activity)** | Endpoints built around the Steam API |
+
+## 💻 Stack
+
+**Front-end:** Vue.js · React · Next.js · TypeScript · Tailwind
+**Back-end:** Node.js · Python · PostgreSQL · MongoDB
+**AI/LLM:** Claude API · Claude Code · MCP · prompt engineering
+**DevOps:** Docker · ArgoCD · GitLab CI/CD · Git
+
+## 📫 Links
+
+- Portfolio: [sammyngyfolio.vercel.app](https://sammyngyfolio.vercel.app/)
+- LinkedIn: [sammyngy](https://linkedin.com/in/sammyngy)
